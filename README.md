@@ -7,4 +7,4 @@ NOTES I MADE WHILE LEARNING KUBERNETES:
 
 [Managing Applications with Kubernetes](https://wry-washer-047.notion.site/kubernetes-ecosystem-de1d3ed75a224395be0400f12c0d02e6)
 
-[fjhgjb](https://wry-washer-047.notion.site/kubernetes-ecosystem-de1d3ed75a224395be0400f12c0d02e6)
+[Kubernetes Ecosystem](https://wry-washer-047.notion.site/kubernetes-ecosystem-de1d3ed75a224395be0400f12c0d02e6)
