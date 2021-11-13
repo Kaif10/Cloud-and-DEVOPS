@@ -3,7 +3,7 @@
 Learning Golang for DEVOPS:
 
 
-NOTES I MADE WHILE LEARNING KUBERNETES:
+NOTES I MADE WHILE LEARNING KUBERNETES (In progress):
 
 
 [Intro to k8s architecture](https://wry-washer-047.notion.site/k8s-architecture-6bd13f466f8a42728c892d6468c8c948)
