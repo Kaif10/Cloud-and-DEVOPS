@@ -11,3 +11,5 @@ NOTES I MADE WHILE LEARNING KUBERNETES (In progress):
 [Managing Applications with Kubernetes](https://wry-washer-047.notion.site/kubernetes-ecosystem-de1d3ed75a224395be0400f12c0d02e6)
 
 [Kubernetes Ecosystem](https://wry-washer-047.notion.site/kubernetes-ecosystem-de1d3ed75a224395be0400f12c0d02e6)
+
+[Kubernetes commands practice](https://www.notion.so/Kubernetes-handson-coursera-478ca58a868d4b4397fb5ac99cfc7c6a)
