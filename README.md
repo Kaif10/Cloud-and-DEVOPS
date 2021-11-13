@@ -15,3 +15,5 @@ NOTES I MADE WHILE LEARNING KUBERNETES (In progress):
 [Kubernetes commands practice](https://www.notion.so/Kubernetes-handson-coursera-478ca58a868d4b4397fb5ac99cfc7c6a)
 
 [Deploy app](https://www.notion.so/deploy-an-app-with-kubernetes-f525beba94dc41d499450dc989fa653a)
+
+[Putting Kubernetes to use in real world Aplications](https://www.notion.so/Putting-Kubernetes-to-use-in-real-world-applications-6544c49e2e474487a7f16b3cc26ef397)
