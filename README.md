@@ -1,6 +1,6 @@
 # Cloud-and-DEVOPS
 
-Learning Golang for DEVOPS:
+
 
 
 NOTES I MADE WHILE LEARNING KUBERNETES (In progress):
